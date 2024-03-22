@@ -1,7 +1,7 @@
 # RoboFriends
 ---
 
-This was created by following the course "Complete React Native Bootcamp (with Hooks)" by Andrei Neaoie (:octocat:[@aneagoie](https://github.com/aneagoie)).
+This was created by following the course "Complete React Native Bootcamp (with Hooks)" by Andrei Neaoie ( :octocat:[@aneagoie](https://github.com/aneagoie)).
 
 **Tools**
 * [Tachyons](https://tachyons.io/): styling
