@@ -13,7 +13,7 @@ This was created by following the course "Complete React Native Bootcamp (with H
 * CSS animated
 * Responsive design
 
-**Cloning**
+**Run the Project**
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
