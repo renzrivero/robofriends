@@ -16,3 +16,5 @@ This was created by following the course "Complete React Native Bootcamp (with H
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
+
+*A version of the source code using React Hooks is in a different branch.*
